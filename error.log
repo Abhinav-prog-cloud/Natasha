@@ -1,0 +1,7 @@
+Deepgram transcription failed: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "C:\Users\abhi1\Desktop\jarvis\JARVIS\main.py", line 132, in transcribe
+    results = response.get("results", {})
+              ^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+
