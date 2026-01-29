@@ -10,7 +10,7 @@ Your own voice personal assistant: Voice to Text to LLM to Speech, displayed in 
 
 1. :microphone: The user speaks into the microphone
 2. :keyboard: Voice is converted to text using <a href="https://deepgram.com/" target="_blank">Deepgram</a>
-3. :robot: Text is sent to <a href="https://openai.com/" target="_blank">OpenAI</a>'s Groq llama-3.1-8b-instant API to generate a response
+3. :robot: Text is sent to <a href="https://console.groq.com/" target="_blank">GroqAI</a>'s Groq llama-3.1-8b-instant API to generate a response
 4. :loudspeaker: Response is converted to speech using <a href="https://elevenlabs.io/" target="_blank">ElevenLabs</a>
 5. :loud_sound: Speech is played using <a href="https://www.pygame.org/wiki/GettingStarted" target="_blank">Pygame</a>
 6. :computer: Conversation is displayed in a webpage using <a href="https://github.com/Avaiga/taipy" target="_blank">Taipy</a>
@@ -94,4 +94,5 @@ Listening...
 
 <p align="center">
   <img src="media/good_morning.png" alt="Saying good morning" width="80%"/>
+
 </p>
