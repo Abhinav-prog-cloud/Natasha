@@ -29,7 +29,7 @@ Your own voice personal assistant: Voice to Text to LLM to Speech, displayed in 
 
 Make sure you have the following API keys:
 - <a href="https://developers.deepgram.com/docs/authenticating" target="_blank">Deepgram</a>
-- <a href=https://console.groq.com/keys
+- <a href="https://console.groq.com/keys" target="_blank">GroqAPI</a>
 - <a href="https://elevenlabs.io/docs/api-reference/text-to-speech" target="_blank">Elevenlabs</a>
 
 ## How to install
@@ -96,3 +96,4 @@ Listening...
   <img src="media/good_morning.png" alt="Saying good morning" width="80%"/>
 
 </p>
+
